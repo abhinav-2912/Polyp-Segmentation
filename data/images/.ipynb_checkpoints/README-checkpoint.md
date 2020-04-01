@@ -1,0 +1,1 @@
+This dierctory should contain polyp images for segmentation. 

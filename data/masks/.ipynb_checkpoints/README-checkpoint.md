@@ -1,0 +1,1 @@
+This dierctory should contain segmentation masks for polyp images.
